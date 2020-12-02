@@ -11,7 +11,7 @@ Demo: https://idogo-discover-movies.netlify.app
   * [Tech Stack](#tech-stack)
   
 ## Screenshot
-![2020-12-02 (2)](https://user-images.githubusercontent.com/72794422/100901968-19292900-34cd-11eb-98dd-b99221a39a87.png)
+<p align="center"><img src="img4readme/2020-12-02 (2).png" width="500" /></p>
 
 ## Tech stack
 1. HTML
