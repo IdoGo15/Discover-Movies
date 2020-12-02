@@ -1,6 +1,6 @@
 # Discover-Movies
-Discover-Movies is a front project I did, where you can discover movies and get different information about them.
-You can sort them by popularity, revenue, vote count and release date.
+Discover-Movies is a front project I did, where you can discover and search movies. You are getting information about each movie.
+You can sort the movies by popularity / revenue / vote count or release date.
 It is a simple and nice project with usage of APIs.
 
 Demo: https://idogo-discover-movies.netlify.app
